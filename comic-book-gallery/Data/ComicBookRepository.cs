@@ -56,10 +56,10 @@ namespace comicbookgallery.Data
         	}
         };
 
-        public ComicBook[] GetComicBooks()
-        {
-            return _comicBooks;
-        }
+		public ComicBook[] GetComicBooks()
+		{
+			return _comicBooks;
+		}
 
         public ComicBook GetComicBook(int id)
         {

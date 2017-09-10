@@ -4,8 +4,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Web.Mvc;
-using comic-book-gallery;
-using comic-book-gallery.Controllers;
+using comicbookgallery;
+using comicbookgallery.Controllers;
 
 namespace comicbookgallery.Tests.Controllers
 {
