@@ -88,6 +88,7 @@
     <Content Include="Global.asax" />
     <Content Include="packages.config" />
     <Content Include="Views\ComicBooks\Detail.cshtml" />
+    <Content Include="Views\ComicBooks\Index.cshtml" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ProjectExtensions>
